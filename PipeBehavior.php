@@ -18,6 +18,7 @@
  *     ..->unpipe('toSomething')
  * </pre>
  *
+ * @version 0.1
  * @category Syntactic sugar for method chaining fanats
  * @see http://en.wikipedia.org/wiki/Method_chaining
  * @author Ustimenko Alexander <a@ustimen.co>
